@@ -9,6 +9,14 @@ https://drive.google.com/open?id=1t4RQebUDEzRwnjCHNjoezlJnmreEd7XK
 https://drive.google.com/file/d/1lgDz9bKze0KFFglewnBQmHqXFbd7etIX/view?usp=sharing
 
 # Organization
+### Vision(en)
+https://bit.ly/2K8R5cN
+### Vision(ja)
+https://www.axion.zone/vision/
+### Mission(en)
+https://bit.ly/2YwQc6W
+### Mission(ja)
+https://bit.ly/313OkQN
 ### Incentive(en)
 https://drive.google.com/open?id=1unpcDqxaXyOIadYxc8sFOPVM6e_8raC_T-u9zDImKAM
 ### 9 principles (en)
