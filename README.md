@@ -37,3 +37,11 @@ https://docs.google.com/document/d/1dzdMASLzGLK92eotW09aQr4AP1OBO8_OvsyxhyngiaE/
 # Founder
 ### Yosih's Profile(ja)
 https://taxiyoshida.github.io/profile/
+
+# Policy
+### why we named us axion(ja)
+https://www.axion.zone/why-we-named-us-axion/
+### Editorial Policy
+https://www.axion.zone/editorial-policy/
+### Private Policy
+https://www.axion.zone/privacy-policy/
